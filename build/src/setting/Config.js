@@ -17,8 +17,8 @@ export default class OrasConfig extends Object {
     constructor() {
         super();
         this.token =
-            "";
-        this.botid = ""
+            "MTIyNzI0MzM1ODUxMDkxMTU5OQ.GWnh9W.j3G2oJ6AIqFQZeFCXAm4EC2cWf_WZYotjikvps";
+        this.botid = "1227243358510911599"
         this.prefix = "+";
         this.nodes = [
             {
